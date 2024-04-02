@@ -15,32 +15,30 @@ Functions (display_data, time_stats,station_stats,trip_duration_stats,user_stats
 In this project, Three csv files for 3 cities have been considered to perform calculations using statistical methodeach file contains 6 months data from Jan to July and has the following columns: 
 </p>
 <ul>
-<li>
-Start Time
-End Time
-User Type
-Gender
-Birth Year
-Trip Duration
-Start Station
-End Station
-</li>
+
+<li>Start Time</li>
+<li>End Time</li>
+<li>User Type</li>
+<li>Gender</li>
+<li>Birth Year</li>
+<li>Trip Duration</li>
+<li>Start Station</li>
+<li>End Station</li>
+
 </ul>
 <p>
-<strong>display_data</strong> - This function shows the top five rows of file selected by user 
-<strong>time_stats</strong> - This function shows the ouput of the most common month. most common day of week, most common hour
-<strong>station_stats</strong> - This function shows the ouput of the most commonly used start and End station
-<strong>trip_duration_stats</strong> - This function shows the ouput of the total travel time, average travel time
-<strong>user_stats</strong> - This function shows the ouput of the counts of user types & gender
+<li><strong>display_data</strong> - This function shows the top five rows of file selected by user </li>
+<li><strong>time_stats</strong> - This function shows the ouput of the most common month. most common day of week, most common hour</li>
+<li><strong>station_stats</strong> - This function shows the ouput of the most commonly used start and End station</li>
+<li><strong>trip_duration_stats</strong> - This function shows the ouput of the total travel time, average travel time</li>
+<li><strong>user_stats</strong> - This function shows the ouput of the counts of user types & gender</li>
 </p>
 
 ### Files used
 <ul>
-<li>
-washington.csv
-chicago.csv
-new_york_city.csv
-</li>
+<li>washington.csv</li>
+<li>chicago.csv<li>
+<li>new_york_city.csv</li>
 </ul>
 
 ### Credits
