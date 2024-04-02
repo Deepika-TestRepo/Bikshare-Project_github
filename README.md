@@ -42,5 +42,4 @@ In this project, Three csv files for 3 cities have been considered to perform ca
 </ul>
 
 ### Credits
-<a herf='https://www.udacity.com/course/version-control-with-git--ud123'>Udacity Version Cotrol Course</a>
-
+<a herf="https://www.udacity.com/course/version-control-with-git--ud123">Udacity Version Cotrol Course</a>
