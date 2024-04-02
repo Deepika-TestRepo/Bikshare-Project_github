@@ -27,8 +27,8 @@ In this project, Three csv files for 3 cities have been considered to perform ca
 
 </ul>
 <p>
-<li><strong>display_data</strong> - This function shows the top five rows of file selected by user </li>
-<li><strong>time_stats</strong> - This function shows the ouput of the most common month. most common day of week, most common hour</li>
+<li><strong>display_data</strong> - This function shows the top five rows of city file data chosen by user </li>
+<li><strong>time_stats</strong> - This function shows the ouput of the most common month, most common day of week, most common hour</li>
 <li><strong>station_stats</strong> - This function shows the ouput of the most commonly used start and End station</li>
 <li><strong>trip_duration_stats</strong> - This function shows the ouput of the total travel time, average travel time</li>
 <li><strong>user_stats</strong> - This function shows the ouput of the counts of user types & gender</li>
@@ -37,7 +37,7 @@ In this project, Three csv files for 3 cities have been considered to perform ca
 ### Files used
 <ul>
 <li>washington.csv</li>
-<li>chicago.csv<li>
+<li>chicago.csv</li>
 <li>new_york_city.csv</li>
 </ul>
 
